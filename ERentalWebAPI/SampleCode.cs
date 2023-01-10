@@ -7,5 +7,8 @@ namespace ERentalWebAPI
 {
     public class SampleCode
     {
+        int id;
+        string name;
+
     }
 }
